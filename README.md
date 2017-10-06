@@ -4,7 +4,7 @@
 1) SpringBootRestFulAngularJs4  >>> run: mvn spring-boot:run
 1) angular4-client  >>> run: npm start
 
-
+# Require project build: https://github.com/anacondong/angular4-client
 
 ## Test URL 
 Require Server API : http://localhost:4200/api/rule  >>> this is invoke RestFul (You can call RestFul API inside Angular client by using this url )
